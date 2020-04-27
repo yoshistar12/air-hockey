@@ -51,7 +51,7 @@ color_order = ((255, 10, 2), (2, 255, 90), (7, 20, 255), (230, 230, 15), (153, 0
 
 d_mass = 1 # Masse
 d_rad = 15.83 # Radius til kule
-mu = 40 # My, Friksjon
+mu = 50 # My, Friksjon
 damp_wall = 0.2 # Vegg fartsdemper
 damp_ball = 0.04 # Hvis 2 baller kolliderer, mister Ek.
 
